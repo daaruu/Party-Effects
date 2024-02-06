@@ -14,11 +14,10 @@
     flex-direction: row;
 
     margin-top: 40vh;
+    gap: 50vh;
 }
 
 .button{
-
-    margin-right: 200px;
     user-select: none;
 
 }
